@@ -1,0 +1,42 @@
+{
+    "confirm": 41,
+    "asym": 129,
+    "groups": [
+        {
+            "name": "艷麗大廈",
+            "CaseCount": 78
+        },
+        {
+            "name": "達昌大廈",
+            "CaseCount": 59
+        },
+        {
+            "name": "乾洗公司",
+            "CaseCount": 10
+        },
+        {
+            "name": "澳迪健身",
+            "CaseCount": 3
+        },
+        {
+            "name": "國際中心",
+            "CaseCount": 2
+        },
+        {
+            "name": "四季名店",
+            "CaseCount": 4
+        },
+        {
+            "name": "未定",
+            "CaseCount": 14
+        }
+    ],
+    "RedYellowCodedZones"{
+        "red": [
+
+        ],
+        "yellow": [
+            
+        ]
+    }
+}
