@@ -2,3 +2,5 @@ exclude:
   - readme.md
 
 timezone: Asia/Shanghai
+
+incremental: true
