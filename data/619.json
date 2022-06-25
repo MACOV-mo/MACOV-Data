@@ -29,15 +29,15 @@
         {
             "name":"新濠影匯工地"
             "CaseCount": 2
-        }
+        },
         {
             "name":"華輝閣"
             "CaseCount": 8
-        }
+        },
         {
             "name": "未定",
             "CaseCount": 9
-        }
+        },
     ],
     "RedYellowCodedZones": {
         "red": [
