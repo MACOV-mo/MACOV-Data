@@ -4,11 +4,11 @@
     "groups": [
         {
             "name": "艷麗大廈",
-            "CaseCount": 78
+            "CaseCount": 85
         },
         {
             "name": "達昌大廈",
-            "CaseCount": 59
+            "CaseCount": 64
         },
         {
             "name": "乾洗公司",
@@ -23,12 +23,20 @@
             "CaseCount": 2
         },
         {
-            "name": "四季名店",
-            "CaseCount": 4
+            "name": "四季名店及中建商業中心",
+            "CaseCount": 7
         },
         {
+            "name":"新濠影匯工地"
+            "CaseCount": 2
+        }
+        {
+            "name":"華輝閣"
+            "CaseCount": 8
+        }
+        {
             "name": "未定",
-            "CaseCount": 14
+            "CaseCount": 9
         }
     ],
     "RedYellowCodedZones": {
