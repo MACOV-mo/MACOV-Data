@@ -114,6 +114,12 @@
                     "address": "渡船街60E，打纜前地 / 打纜地4-6A",
                     "codeColor": "yellow",
                     "district": "新橋區"
+                },
+                {
+                    "name": "信利大廈",
+                    "address": "亞利鴉架街 64-64B",
+                    "codeColor": "yellow",
+                    "district": "新橋區"
                 }
             ]
         },
@@ -146,6 +152,12 @@
                 {
                     "name": "翡翠廣場(第一座)",
                     "address": "中心街-77號",
+                    "codeColor": "red",
+                    "district": "祐漢及黑沙環區"
+                },
+                {
+                    "name": "順利樓",
+                    "address": "長壽大馬路 51號",
                     "codeColor": "red",
                     "district": "祐漢及黑沙環區"
                 }
@@ -216,6 +228,12 @@
                     "address": "涌河新街263號",
                     "codeColor": "red",
                     "district": "黑沙環新填海區"
+                },
+                {
+                    "name": "裕華大廈(第十二座)",
+                    "address": "勞動節街36號",
+                    "codeColor": "red",
+                    "district": "黑沙環新填海區"
                 }
             ]
         },
@@ -268,6 +286,22 @@
                     "address": "羅飛勒前地/燒灰爐口 16-18",
                     "codeColor": "yellow",
                     "district": "南西灣及主教區"
+                }
+                {
+                    "name": "德豐大廈",
+                    "address": "澳門南灣大馬路241-253號",
+                    "codeColor": "yellow",
+                    "district": "南西灣及主教區"
+                }
+            ]
+        },
+        {
+            "name": "高士德及雅廉坊區",
+            "zones": [
+                {
+                    "name": "華暉閣",
+                    "address": "俾利喇街 104-104B號,高士德大馬路 23-33號；",
+                    "codeColor":"red"
                 }
             ]
         }
