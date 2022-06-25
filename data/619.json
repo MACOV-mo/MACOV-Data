@@ -41,184 +41,235 @@
     ],
     "RedYellowCodedZones": [
         {
-            "name": "達昌大廈 (I)",
-            "address": "亞豐素街 33-35G",
-            "codeColor": "red",
-            "district": "新橋區"
+            "name": "新橋區",
+            "zones":[
+                {
+                    "name": "達昌大廈 (I)",
+                    "address": "亞豐素街 33-35G",
+                    "codeColor": "red",
+                    "district": "新橋區"
+                },
+                {
+                    "name": "達昌大廈 (II)",
+                    "address": "消防隊巷 5-5H號",
+                    "codeColor": "red",
+                    "district": "新橋區"
+                },
+                {
+                    "name": "好環境大廈",
+                    "address": "鏡湖馬路  102-108A號",
+                    "codeColor": "red",
+                    "district": "新橋區"
+                },
+                {
+                    "name": "仁安大廈",
+                    "address": "澳門亞利鴉架街13E號",
+                    "codeColor": "red",
+                    "district": "新橋區"
+                },
+                {
+                    "name": "泉豐樓",
+                    "address": "亞豐素街38-40A",
+                    "codeColor": "yellow",
+                    "district": "新橋區"
+                },
+                {
+                    "name": "德榮大廈",
+                    "address": "亞豐素街 37-45",
+                    "codeColor": "yellow",
+                    "district": "新橋區"
+                },
+                {
+                    "name": "文興樓",
+                    "address": "亞豐素街 31C-31G",
+                    "codeColor": "yellow",
+                    "district": "新橋區"
+                },
+                {
+                    "name": "栢威大廈第二座",
+                    "address": "賈伯樂提督街146",
+                    "codeColor": "yellow",
+                    "district": "新橋區"
+                },
+                {
+                    "name": "林記燒味",
+                    "address": "義字街40號",
+                    "codeColor": "yellow",
+                    "district": "新橋區"
+                },
+                {
+                    "name": "艷麗大廈",
+                    "address": "亞利鴉架街 66-66C",
+                    "codeColor": "yellow",
+                    "district": "新橋區"
+                },
+                {
+                    "name": "利發大廈",
+                    "address": "鏡湖馬路 122-122B號",
+                    "codeColor": "yellow",
+                    "district": "新橋區"
+                },
+                {
+                    "name": "淑芬大廈",
+                    "address": "渡船街60E，打纜前地 / 打纜地4-6A",
+                    "codeColor": "yellow",
+                    "district": "新橋區"
+                }
+            ]
         },
         {
-            "name": "澳門國際中心(第六幢)",
-            "address": "馬六甲街124號，海港街93-103號，友誼巷82號",
-            "codeColor": "red",
-            "district": "新口岸區"
+            "name": "新口岸區",
+            "zones": [
+                {
+                    "name": "澳門國際中心(第六幢)",
+                    "address": "馬六甲街124號，海港街93-103號，友誼巷82號",
+                    "codeColor": "red",
+                    "district": "新口岸區"
+                },
+                {
+                    "name": "財神酒店",
+                    "address": "廣州街49-63號，佛山街48A-78號，殷豐素王前地76-90號",
+                    "codeColor": "red",
+                    "district": "新口岸區"
+                }
+            ]
         },
         {
-            "name": "萬利樓(S,T座)",
-            "address": "黑沙環第三街6號",
-            "codeColor": "red",
-            "district": "祐漢及黑沙環區"
+            "name": "祐漢及黑沙環區",
+            "zones": [
+                {
+                    "name": "萬利樓(S,T座)",
+                    "address": "黑沙環第三街6號",
+                    "codeColor": "red",
+                    "district": "祐漢及黑沙環區"
+                },
+                {
+                    "name": "翡翠廣場(第一座)",
+                    "address": "中心街-77號",
+                    "codeColor": "red",
+                    "district": "祐漢及黑沙環區"
+                }
+            ]
         },
         {
-            "name": "財神酒店",
-            "address": "廣州街49-63號，佛山街48A-78號，殷豐素王前地76-90號",
-            "codeColor": "red",
-            "district": "新口岸區"
+            "name": "林茂塘區",
+            "zones": [
+                {
+                    "name": "都匯",
+                    "address": "沙梨頭海邊大馬路 331-339號, 林茂海邊街 330-342 號，林茂海邊巷 15-31號",
+                    "codeColor": "red",
+                    "district": "林茂塘區"
+                },
+                {
+                    "name": "運順新邨C座",
+                    "address": "沙梨頭南街159",
+                    "codeColor": "yellow",
+                    "district": "林茂塘區"
+                },
+                {
+                    "name": "威翠花園B座",
+                    "address": "海灣南街281",
+                    "codeColor": "yellow",
+                    "district": "林茂塘區"
+                }
+            ]
         },
         {
-            "name": "都匯",
-            "address": "沙梨頭海邊大馬路 331-339號, 林茂海邊街 330-342 號，林茂海邊巷 15-31號",
-            "codeColor": "red",
-            "district": "林茂塘區"
+            "name": "氹仔中心區",
+            "zones": [
+                {
+                    "name": "花城(利盛大廈)",
+                    "address": "南京街73號",
+                    "codeColor": "red",
+                    "district": "氹仔中心區"
+                },          
+                {
+                    "name": "超級花城",
+                    "address": "奧林匹克大馬路177-259，埃武拉街10-72",
+                    "codeColor": "yellow",
+                    "district": "氹仔中心區"
+                }
+            ]
         },
         {
-            "name": "花城(利盛大廈)",
-            "address": "南京街73號",
-            "codeColor": "red",
-            "district": "氹仔中心區"
+            "name": "荷蘭園區",
+            "zones":[
+                {
+                    "name": "栢蕙花園(第三座)",
+                    "address": "荷蘭園大馬路128號",
+                    "codeColor": "red",
+                    "district": "荷蘭園區"
+                },
+                {
+                    "name": "陞發大廈",
+                    "address": "珊枝街14-14A",
+                    "codeColor": "yellow",
+                    "district": "荷蘭園區"
+                }
+            ]
         },
         {
-            "name": "栢蕙花園(第三座)",
-            "address": "荷蘭園大馬路128號",
-            "codeColor": "red",
-            "district": "荷蘭園區"
+            "name": "黑沙環新填海區",
+            "zones":[
+                {
+                    "name": "裕華大廈(第六座)",
+                    "address": "涌河新街263號",
+                    "codeColor": "red",
+                    "district": "黑沙環新填海區"
+                }
+            ]
         },
         {
-            "name": "裕華大廈(第六座)",
-            "address": "涌河新街263號",
-            "codeColor": "red",
-            "district": "黑沙環新填海區"
+            "name": "望夏及水塘區",
+            "zones":[
+                {
+                    "name": "信譽名門(第二座)",
+                    "address": "區神父街86號",
+                    "codeColor": "red",
+                    "district": "望夏及水塘區"
+                },
+                {
+                    "name": "潮福中心",
+                    "address": "亞利鴉架街 66-66C",
+                    "codeColor": "yellow",
+                    "district": "望夏及水塘區"
+                }
+            ]
         },
         {
-            "name": "信譽名門(第二座)",
-            "address": "區神父街86號",
-            "codeColor": "red",
-            "district": "望夏及水塘區"
+            "name": "台山區",
+            "zones":[
+                {
+                    "name": "五邑海鮮美食",
+                    "address": "騎士馬路 182-188號",
+                    "codeColor": "red",
+                    "district": "台山區"
+                },
+                {
+                    "name": "李秉倫大廈第一座",
+                    "address": "關閘廣場315",
+                    "codeColor": "red",
+                    "district": "台山區"
+                },
+                {
+                    "name": "逸麗大廈第六座",
+                    "address": "台山中街302號",
+                    "codeColor": "yellow",
+                    "district": "台山區"
+                }
+            ]
+
         },
         {
-            "name": "翡翠廣場(第一座)",
-            "address": "中心街-77號",
-            "codeColor": "red",
-            "district": "祐漢及黑沙環區"
-        },
-        {
-            "name": "達昌大廈 (II)",
-            "address": "消防隊巷 5-5H號",
-            "codeColor": "red",
-            "district": "新橋區"
-        },
-        {
-            "name": "好環境大廈",
-            "address": "鏡湖馬路  102-108A號",
-            "codeColor": "red",
-            "district": "新橋區"
-        },
-        {
-            "name": "仁安大廈",
-            "address": "澳門亞利鴉架街13E號",
-            "codeColor": "red",
-            "district": "新橋區"
-        },
-        {
-            "name": "五邑海鮮美食",
-            "address": "騎士馬路 182-188號",
-            "codeColor": "red",
-            "district": "台山區"
-        },
-        {
-            "name": "李秉倫大廈第一座",
-            "address": "關閘廣場315",
-            "codeColor": "red",
-            "district": "台山區"
-        },
-        {
-            "name": "泉豐樓",
-            "address": "亞豐素街38-40A",
-            "codeColor": "yellow",
-            "district": "新橋區"
-        },
-        {
-            "name": "德榮大廈",
-            "address": "亞豐素街 37-45",
-            "codeColor": "yellow",
-            "district": "新橋區"
-        },
-        {
-            "name": "文興樓",
-            "address": "亞豐素街 31C-31G",
-            "codeColor": "yellow",
-            "district": "新橋區"
-        },
-        {
-            "name": "栢威大廈第二座",
-            "address": "賈伯樂提督街146",
-            "codeColor": "yellow",
-            "district": "新橋區"
-        },
-        {
-            "name": "超級花城",
-            "address": "奧林匹克大馬路177-259，埃武拉街10-72",
-            "codeColor": "yellow",
-            "district": "氹仔中心區"
-        },
-        {
-            "name": "湖景花園",
-            "address": "羅飛勒前地/燒灰爐口 16-18",
-            "codeColor": "yellow",
-            "district": "南西灣及主教區"
-        },
-        {
-            "name": "林記燒味",
-            "address": "義字街40號",
-            "codeColor": "yellow",
-            "district": "新橋區"
-        },
-        {
-            "name": "逸麗大廈第六座",
-            "address": "台山中街302號",
-            "codeColor": "yellow",
-            "district": "台山區"
-        },
-        {
-            "name": "艷麗大廈",
-            "address": "亞利鴉架街 66-66C",
-            "codeColor": "yellow",
-            "district": "新橋區"
-        },
-        {
-            "name": "潮福中心",
-            "address": "亞利鴉架街 66-66C",
-            "codeColor": "yellow",
-            "district": "望夏及水塘區"
-        },
-        {
-            "name": "利發大廈",
-            "address": "鏡湖馬路 122-122B號",
-            "codeColor": "yellow",
-            "district": "新橋區"
-        },
-        {
-            "name": "淑芬大廈",
-            "address": "渡船街60E，打纜前地 / 打纜地4-6A",
-            "codeColor": "yellow",
-            "district": "新橋區"
-        },
-        {
-            "name": "陞發大廈",
-            "address": "珊枝街14-14A",
-            "codeColor": "yellow",
-            "district": "荷蘭園區"
-        },
-        {
-            "name": "運順新邨C座",
-            "address": "沙梨頭南街159",
-            "codeColor": "yellow",
-            "district": "林茂塘區"
-        },
-        {
-            "name": "威翠花園B座",
-            "address": "海灣南街281",
-            "codeColor": "yellow",
-            "district": "林茂塘區"
+            "name": "南西灣及主教區",
+            "zones": [
+                {
+                    "name": "湖景花園",
+                    "address": "羅飛勒前地/燒灰爐口 16-18",
+                    "codeColor": "yellow",
+                    "district": "南西灣及主教區"
+                }
+            ]
         }
     ]
 }
