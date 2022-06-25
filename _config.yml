@@ -1,2 +1,4 @@
 exclude:
   - readme.md
+
+timezone: Asia/Shanghai

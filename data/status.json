@@ -1,5 +1,6 @@
 ---
 ---
 {
-  "time": "{{ site.time }}"
+  "time": "{{ site.time }}",
+  "time_for_ref": "{{ site.time | date: '%Y/%m/%d %H:%M:%S' }}"
 }
