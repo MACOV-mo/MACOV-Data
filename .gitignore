@@ -3,5 +3,3 @@ _site
 Gemfile.lock
 .jekyll-cache
 .vscode
-local*
-data/
