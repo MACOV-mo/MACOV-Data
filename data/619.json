@@ -1,19 +1,19 @@
 {
-    "confirm": 66,
+    "confirm":66 ,
     "asym": 195,
     "newcase": 71,
     "groups": [
         {
             "name": "艷麗大廈",
-            "CaseCount": 85
+            "CaseCount": 102
         },
         {
             "name": "達昌大廈",
-            "CaseCount": 64
+            "CaseCount": 70
         },
         {
             "name": "乾洗公司",
-            "CaseCount": 10
+            "CaseCount": 11
         },
         {
             "name": "澳迪健身",
@@ -25,19 +25,27 @@
         },
         {
             "name": "四季中建",
-            "CaseCount": 7
+            "CaseCount": 17
         },
         {
             "name":"新濠工地",
-            "CaseCount": 2
+            "CaseCount": 4
         },
         {
             "name":"華輝閣",
             "CaseCount": 8
         },
         {
+            "name":"五一美食，順利樓，銀河工地",
+            "CaseCount": 10
+        },
+        {
+            "name":"李秉倫大廈",
+            "CaseCount":    14
+        },
+        {
             "name": "未定",
-            "CaseCount": 9
+            "CaseCount": 20
         }
     ],
     "RedYellowCodedZones": [
