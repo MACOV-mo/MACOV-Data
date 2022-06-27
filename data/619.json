@@ -1,23 +1,23 @@
 {
-    "confirm": 66,
-    "asym": 233,
-    "newcase": 109,
+    "confirm": 88,
+    "asym": 269,
+    "newcase": 96,
     "groups": [
         {
             "name": "艷麗大廈",
-            "CaseCount": 102
+            "CaseCount": 137
         },
         {
             "name": "達昌大廈",
-            "CaseCount": 70
+            "CaseCount": 84
         },
         {
             "name": "乾洗公司",
-            "CaseCount": 11
+            "CaseCount": 19
         },
         {
             "name": "澳迪健身",
-            "CaseCount": 3
+            "CaseCount": 4
         },
         {
             "name": "國際中心",
@@ -25,27 +25,27 @@
         },
         {
             "name": "四季中建",
-            "CaseCount": 17
+            "CaseCount": 20
         },
         {
-            "name":"新濠工地",
+            "name":"九澳地盤",
             "CaseCount": 4
         },
         {
             "name":"華輝閣",
-            "CaseCount": 8
-        },
-        {
-            "name":"五邑美食，順利樓，銀河工地",
             "CaseCount": 10
         },
         {
+            "name":"順利樓",
+            "CaseCount": 9
+        },
+        {
             "name":"李秉倫大廈",
-            "CaseCount":    14
+            "CaseCount": 26
         },
         {
             "name": "未定",
-            "CaseCount": 20
+            "CaseCount": 30
         }
     ],
     "RedYellowCodedZones": [
