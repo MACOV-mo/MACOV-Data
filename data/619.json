@@ -1,8 +1,8 @@
 {
-    "//confirm": "?",
-    "//asym": "?",
-    "newcase": 122,
-    "case": 391,
+    "//confirm": "105",
+    "//asym": "309",
+    "newcase": 53,
+    "case": 414,
     "groups": [
         {
             "name": "艷麗大廈",
@@ -45,8 +45,12 @@
             "CaseCount": 26
         },
         {
+            "name":"新金華美食",
+            "CaseCount": 7
+        },
+        {
             "name": "未定",
-            "CaseCount": 30
+            "CaseCount": 48
         }
     ],
     "chart": [
