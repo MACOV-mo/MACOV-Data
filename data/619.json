@@ -1,6 +1,6 @@
 {
-    "confirm": "105",
-    "asym": "309",
+    "confirm": 105,
+    "asym": 309,
     "newcase": 53,
     "case": 414,
     "groups": [
@@ -101,7 +101,12 @@
         },
         {
             "date": "2022/06/27",
-            "case": 414
+            "confirm": 105,
+            "asym": 309,
+        }
+        {
+            "date": "【預計】,
+            "case": 455
         }
     ]
 }
