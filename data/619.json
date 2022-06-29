@@ -1,8 +1,8 @@
 {
-    "confirm": 105,
-    "asym": 309,
-    "newcase": 53,
-    "case": 414,
+    "//confirm": 105,
+    "//asym": 309,
+    "newcase": 70,
+    "case": 484,
     "groups": [
         {
             "name": "艷麗大廈",
@@ -101,12 +101,7 @@
         },
         {
             "date": "2022/06/27",
-            "confirm": 105,
-            "asym": 309
-        },
-        {
-            "date": "【預計】",
-            "case": 455
+            "case": 484
         }
     ]
 }
