@@ -3,56 +3,7 @@
     "//asym": 411,
     "newcase": 66,
     "case": 638,
-    "groups": [
-        {
-            "name": "艷麗大廈",
-            "CaseCount": 137
-        },
-        {
-            "name": "達昌大廈",
-            "CaseCount": 84
-        },
-        {
-            "name": "乾洗公司",
-            "CaseCount": 19
-        },
-        {
-            "name": "澳迪健身",
-            "CaseCount": 4
-        },
-        {
-            "name": "國際中心",
-            "CaseCount": 2
-        },
-        {
-            "name": "四季中建",
-            "CaseCount": 20
-        },
-        {
-            "name":"九澳地盤",
-            "CaseCount": 4
-        },
-        {
-            "name":"華輝閣",
-            "CaseCount": 10
-        },
-        {
-            "name":"順利樓",
-            "CaseCount": 9
-        },
-        {
-            "name":"李秉倫大廈",
-            "CaseCount": 26
-        },
-        {
-            "name":"新金華美食",
-            "CaseCount": 7
-        },
-        {
-            "name": "未定",
-            "CaseCount": 48
-        }
-    ],
+    "groups": [],
     "chart": [
         {
             "date": "2022/06/18",
@@ -116,8 +67,36 @@
             "case": 638
         },
         {
-            "date": "2022/07/01"
+            "date": "2022/07/01",
             "case": 694
+        },
+        {
+            "date": "2022/07/02",
+            "case": 784
+        },
+        {
+            "date": "2022/07/03",
+            "case": 852
+        },
+        {
+            "date": "2022/07/03",
+            "case": 852
+        },
+        {
+            "date": "2022/07/04",
+            "case": 941
+        },
+        {
+            "date": "2022/07/05",
+            "case": 1087
+        },
+        {
+            "date": "2022/07/06",
+            "case": 1215
+        },
+        {
+            "date": "【預測】 2022/07/07",
+            "case": 1339
         }
     ]
 }
