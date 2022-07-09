@@ -9,3 +9,13 @@
   from = "/*"
   to = "/404.json"
   status = 404
+
+[[plugins]]
+package = "netlify-plugin-hashfiles"
+
+  [plugins.inputs]
+  entryPoints = [
+    "*"
+  ]
+
+  staticDir = "/storage/"
