@@ -5,11 +5,6 @@
     Access-Control-Allow-Methods = "*"
     Access-Control-Allow-Headers = "*"
 
-[[redirects]]
-  from = "/*"
-  to = "/404.json"
-  status = 404
-
 [[plugins]]
 package = "netlify-plugin-hashfiles"
 
