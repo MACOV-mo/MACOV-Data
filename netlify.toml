@@ -10,6 +10,14 @@
   to = "/404.json"
   status = 404
 
+[[redirects]]
+  from = "/netlify.toml"
+  to = "/404.json"
+
+[[redirects]]
+  from = "/readme.md"
+  to = "/404.json"
+
 [[plugins]]
 package = "netlify-plugin-hashfiles"
 
