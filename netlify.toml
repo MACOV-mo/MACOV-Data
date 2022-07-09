@@ -4,13 +4,3 @@
     Access-Control-Allow-Origin = "*"
     Access-Control-Allow-Methods = "*"
     Access-Control-Allow-Headers = "*"
-
-[[plugins]]
-package = "netlify-plugin-hashfiles"
-
-  [plugins.inputs]
-  entryPoints = [
-    "*"
-  ]
-
-  staticDir = "/storage/"
